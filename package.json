@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Bombas Pair Programming Frontend Test",
   "main": "index.js",
-  "repository": "https://github.com/jaemega/bombas-frontend-tech-test.git",
-  "author": "Bombas Engineering <engineering@bombas.com>",
+  "repository": "https://github.com/bombas/bombas-frontend-paired-test.git",
+  "author": "Bombas Engineering",
   "license": "MIT",
   "private": true,
   "scripts": {
